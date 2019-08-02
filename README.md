@@ -1,8 +1,10 @@
 # Hello World!
-## suck it, Kel!
+#### suck it, Kel!
 
 
-To-Review:
+## **Idea: College Football Pickem App** 
+
+### __To-Review__:
 
 [ ] https://github.com/lebebr01/cfbFootball.git 
 
